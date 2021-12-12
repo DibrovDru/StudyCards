@@ -1,0 +1,111 @@
+.picture {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+}
+
+.password_form {
+    position: absolute;
+    width: 15%;
+    height: 4%;
+    left: 42.4%;
+    top: 38.5%;
+    
+    background: #C4C4C4;
+    border-radius: 10%;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120%;
+    line-height: 10%;
+    
+    color: #5C5C5C;
+}
+
+.name_log_in {
+    position: absolute;
+    width: 34%;
+    height: 5%;
+    left: 39.5%;
+    top: 5%;
+    
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 225%;
+    line-height: 80%;
+    letter-spacing: 0.72em;
+    
+    color: #858585;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.log_in_text {
+    position: absolute;
+    width: 8%;
+    height: 4%;
+    left: 47.5%;
+    top: 20%;
+    
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 190%;
+    line-height: 120%;
+    
+    color: #DCDCDC;
+}
+
+.log_in_button {
+    position: absolute;
+    width: 7%;
+    height: 4%;
+    left: 46.5%;
+    top: 48%;
+    
+    background: #C4C4C4;
+    border-radius: 20%;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 130%;
+    line-height: 10%;
+    
+    color: #000000;
+}
+
+.form {
+    position: absolute;
+    width: 20%;
+    height: 34%;
+    left: 40%;
+    top: 20%;
+    
+    background: #3C3C3C;
+    mix-blend-mode: hard-light;
+    border-radius: 10%;
+}
+
+.email_form {
+    position: absolute;
+    width: 15%;
+    height: 4%;
+    left: 42.4%;
+    top: 31%;
+    
+    background: #C4C4C4;
+    border-radius: 10%;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120%;
+    line-height: 10%;
+    
+    color: #5C5C5C;
+}

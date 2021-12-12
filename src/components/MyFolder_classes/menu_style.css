@@ -1,0 +1,185 @@
+.down_line {
+    position: absolute;
+    width: 24.4%;
+    height: 0%;
+    left: 0%;
+    top: 91.5%;
+    
+    border: 1px solid #858585;
+    transform: rotate(180deg);
+}
+
+.up_line{
+    position: absolute;
+    width: 24.4%;
+    height: 0%;
+    left: 0%;
+    top: 16.6%;
+    
+    border: 1px solid #858585;
+    transform: rotate(180deg);
+}
+
+.menu_pic{
+    position: absolute;
+    width: 75.5%;
+    height: 83.3%;
+    left: 24.5%;
+    top: 16.6%;
+    
+    background: #C4C4C4;
+}
+
+.profile_button{
+    position: absolute;
+    width: 6.5%;
+    height: 6%;
+    left: 90%;
+    top: 5%;
+    
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150%;
+    line-height: 10%;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.name{
+    position: absolute;
+    width: 50%;
+    height: 5%;
+    left: 2%;
+    top: 0.1%;
+    
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 330%;
+    line-height: 60%;
+    letter-spacing: 72%;
+}
+
+.menu{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    left: 0px;
+    top: 0px;
+    
+    background: #000000;
+}
+
+.add_fold_name{
+    position: absolute;
+    width: 14.4%;
+    height: 12%;
+    left: 55%;
+    top: 45%;
+    
+    background: #3C3C3C;
+    border-radius: 5%;
+
+    display: none;
+}
+
+.new_name_form{
+    position: absolute;
+    width: 90%;
+    height: 25%;
+    left: 3%;
+    top: 15%;
+    
+    background: #C4C4C4;
+    border-radius: 15%;
+}
+
+.fn_cancel_fold{
+    position: absolute;
+    width: 40%;
+    height: 25%;
+    left: 5%;
+    top: 60%;
+    
+    background: #C4C4C4;
+    border-radius: 30%;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120%;
+    line-height: 100%;
+}
+
+.add_folder_button{
+    position: absolute;
+    width: 21%;
+    height: 4.7%;
+    left: 1.5%;
+    top: 93.5%;
+    display: block;
+    
+    background: #C4C4C4;
+    border-radius: 12%;
+    
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150%;
+    line-height: 10%;
+    
+    color: #000000;
+}
+
+.ok_fold {
+    position: absolute;
+    width: 40%;
+    height: 25%;
+    left: 56%;
+    top: 60%;
+    
+    background: #C4C4C4;
+    border-radius: 30%;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120%;
+    line-height: 100%;
+    
+    color: #000000;
+}
+
+.folder{
+    width: 95%;
+    height: 8%;
+    margin: 2%;
+    padding: 2%;
+    top: 10%;
+    
+    background: #C4C4C4;
+    border-radius: 10%;
+
+    font-family: Ropa Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 130%;
+    line-height: 80%;
+    
+    color: #000000;
+}
+
+.folders_list{
+    position: absolute;
+    width: 24.5%;
+    height: 70%;
+    left: 0%;
+    top: 17%;
+}
